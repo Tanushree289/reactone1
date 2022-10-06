@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+.head1{
+  text-shadow: 5px 1px 1px rgb(12, 195, 219);
+
+}
+body{
+  background-image: linear-gradient(rgb(176, 212, 241),
+            rgb(231, 161, 210),
+            rgb(244, 244, 248));
+  height: 674px;
+}
+.sub1{
+  border: 2px solid black;
+  border-radius: 50px;
+  background-color: rgb(12, 165, 165);
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+  margin-left: -300px;
+  position: absolute;
+}
+.sub2{
+
+  border: 2px solid black;
+  border-radius: 50px;
+  background-color: rgb(12, 165, 165);
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+  margin-left: 350px;
+ 
+
+}
+.sub1:hover{
+  background-color: aqua;
+}
+.sub2:hover{
+  background-color: aqua;
+}
+.funDiv{
+  width: 500px;
+  height: 280px;
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius: 50px;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.classDiv{
+  width: 500px;
+  height: 280px;
+  background-color: rgb(184, 51, 236);
+  border: 2px solid black;
+  border-radius: 50px;
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 700px;
+}
+.para1{
+  font-size: 25px;
+  color: red;
+  font-weight: bold;
+}
+button{
+  font-size: 16px;
+
+}
